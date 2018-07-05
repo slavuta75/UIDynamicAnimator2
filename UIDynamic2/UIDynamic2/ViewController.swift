@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //012012012012
     //010101010101
     //123456789
     //UIAttachmentBehavior - привязка
