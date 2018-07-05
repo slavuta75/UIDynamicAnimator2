@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
+    //Проверка работы
     //UIAttachmentBehavior - привязка
     //UISnapBehavior - снимок
     
